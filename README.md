@@ -1,2 +1,2 @@
 # Kenbow
-Ken et al., Nature Neuroscience, 2017
+Ken Chan et al., Nature Neuroscience, 2017
